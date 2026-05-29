@@ -1,0 +1,6 @@
+{
+  "name": "6-Day PPL Workout Guide",
+  "description": "An interactive 6-Day Push-Pull-Legs home gym workout tracker and posture guide featuring automatic rest-timers and detailed exercise GIFs.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
